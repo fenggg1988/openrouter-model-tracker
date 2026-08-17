@@ -171,6 +171,14 @@ def save(data):
         json.dump(data, f, ensure_ascii=False, indent=2)
     log(f"Saved {OUTPUT_FILE.name}")
     embed_in_html(data)
+    # 同时产出 index.html 供 GitHub Pages 根路径直接展示看板
+    try:
+        if HTML_FILE.exists():
+            idx = SCRIPT_DIR / "index.html"
+            idx.write_text(HTML_FILE.read_text(encoding="utf-8"), encoding="utf-8")
+            log(f"Copied {HTML_FILE.name} -> {idx.name}")
+    except IOError as e:
+        log(f"WARN: failed to copy index.html: {e}")
 
 
 def embed_in_html(data):
