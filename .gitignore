@@ -1,0 +1,12 @@
+# 运行时日志
+scrape.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器
+.idea/
+.vscode/
