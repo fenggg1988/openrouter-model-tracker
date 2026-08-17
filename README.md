@@ -3,6 +3,11 @@
 抓取 OpenRouter 公开 rankings 接口，统计**各家模型的每日调用次数与 Token 用量**，
 结构对齐 `gpu-price-tracker`：独立抓取脚本 + 自包含静态仪表盘 HTML。
 
+## 在线看板（GitHub Pages，已公开）
+- 看板地址：**https://fenggg1988.github.io/openrouter-model-tracker/**
+- 由 `model_stats.html` 复制为 `index.html` 提供，每日经 GitHub Actions 抓取后自动更新
+- 仓库已设为 **public**，可自由分享链接
+
 ## 数据源
 - 接口：`https://openrouter.ai/api/frontend/v1/rankings/models`（公开、免鉴权）
 - 字段：`count`（调用次数）、`total_prompt_tokens`、`total_completion_tokens`、
