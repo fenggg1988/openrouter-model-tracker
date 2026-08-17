@@ -25,12 +25,20 @@ C:\Users\fengz\AppData\Local\Programs\Python\Python314\python.exe scrape_openrou
 ```
 或直接双击 `run_scraper.bat`（日志写入 `scrape.log`）。
 
-## 设为每日自动抓取（对齐 gpu pricer）
-在本机以普通权限运行（当前 WorkBuddy 沙箱禁用了 schtasks，需在本机执行）：
+## 每日自动抓取（两种方式，任选其一）
+
+### 方式 A：GitHub Actions（推荐，云端跑，无需本机开机）
+仓库已内置 `.github/workflows/daily-scrape.yml`，每天 **北京时间 09:00（UTC 01:00）** 自动：
+checkout → 跑 `scrape_openrouter.py` → 有变化就提交回 `model_stats.json` / `model_stats.html`。
+- 触发：到仓库 **Actions** 页 -> 该 workflow -> **Run workflow** 可手动跑一次验证
+- 抓取结果会随每次运行自动推回仓库，直接看 `model_stats.html` 即最新数据
+
+### 方式 B：本机 Windows 计划任务（可选，与 gpu pricer 同档）
+若仍想本机每日 09:00 跑（沙箱外本机执行）：
 ```
 powershell -ExecutionPolicy Bypass -File C:\Users\fengz\openrouter-model-tracker\scheduler\setup_schedule.ps1
 ```
-即可注册 `OpenRouterModelStats` 任务，每日 09:00 运行（与 GPUPriceTracker / MemoryPriceScraper 同档）。
+注册 `OpenRouterModelStats` 任务，每日 09:00 运行。两种方式同时开也无害（只是重复抓取）。
 
 ## 仪表盘说明
 - 顶部汇总卡片：当日模型数、总调用次数、总 Prompt Tokens、活跃厂商/头部模型
