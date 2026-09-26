@@ -1,3 +1,4 @@
+# schedule re-registered 2026-09-26 (fix: cron lost after account flag)
 name: Daily OpenRouter Model Stats
 
 # 每日云端抓取 OpenRouter 各家模型调用量，更新 model_stats.json / model_stats.html 并推回仓库。
