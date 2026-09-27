@@ -38,5 +38,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: daily OpenRouter model stats update [skip ci]"
+          git pull --rebase --autostash origin "$(git branch --show-current)" || true
             git push
           fi
