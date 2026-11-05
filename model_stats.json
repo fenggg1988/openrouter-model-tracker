@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T07:34:16Z",
+  "last_updated": "2026-11-05T07:37:14Z",
   "history": {
     "2026-08-10": [
       {
@@ -14802,7 +14802,7 @@
           "batch"
         ],
         "change": 2911.4399865138234,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o",
@@ -14820,7 +14820,7 @@
           "batch"
         ],
         "change": 0.9629629629629629,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "upstage/solar-pro-3",
@@ -14838,7 +14838,7 @@
           "standard"
         ],
         "change": -0.9194927303082423,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ],
     "2026-10-30": [
@@ -14858,7 +14858,7 @@
           "free"
         ],
         "change": -0.04046997375631446,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.5-20260423",
@@ -14876,7 +14876,7 @@
           "batch"
         ],
         "change": -0.08956916099773243,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ],
     "2026-10-31": [
@@ -14896,7 +14896,7 @@
           "batch"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.7-opus-20260416",
@@ -14914,7 +14914,7 @@
           "batch"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.5-haiku-20251001",
@@ -14932,7 +14932,7 @@
           "batch"
         ],
         "change": 5880.652173913043,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.6-opus-20260205",
@@ -14950,7 +14950,7 @@
           "batch"
         ],
         "change": 9.84721608040201,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.6-sonnet-20260217",
@@ -14968,7 +14968,7 @@
           "batch"
         ],
         "change": 2.384168021129622,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.8-opus-20260528",
@@ -14986,7 +14986,7 @@
           "batch"
         ],
         "change": 1.8544328424483518,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-5-fable-20260609",
@@ -15004,7 +15004,7 @@
           "batch"
         ],
         "change": 1.0848491619220135,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "poolside/laguna-xs-2.1-20260625",
@@ -15023,7 +15023,7 @@
           "standard"
         ],
         "change": -0.5955063651177175,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "poolside/laguna-s-2.1-20260720",
@@ -15042,7 +15042,7 @@
           "standard"
         ],
         "change": -0.6365937727299427,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ],
     "2026-11-01": [
@@ -15082,7 +15082,7 @@
           "standard"
         ],
         "change": -0.3257625232515594,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nousresearch/hermes-3-llama-3.1-70b",
@@ -15100,7 +15100,7 @@
           "standard"
         ],
         "change": -0.4029524735833479,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-imagine-image-quality-20260512",
@@ -15118,7 +15118,7 @@
           "standard"
         ],
         "change": -0.49281731159157266,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/text-embedding-3-large",
@@ -15136,7 +15136,7 @@
           "batch"
         ],
         "change": -0.5936735596626446,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ],
     "2026-11-03": [
@@ -15156,7 +15156,7 @@
           "batch"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-realtime-2.1",
@@ -15174,7 +15174,7 @@
           "standard"
         ],
         "change": 1772.6623376623377,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "text-embedding-3-large",
@@ -15192,7 +15192,7 @@
           "standard"
         ],
         "change": -0.5163732913757498,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-terra-pro-20260709",
@@ -15210,7 +15210,7 @@
           "batch"
         ],
         "change": -0.744343891402715,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-sol-pro-20260709",
@@ -15228,7 +15228,7 @@
           "batch"
         ],
         "change": -0.8279154478723991,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-sol-pro-20260922",
@@ -15246,7 +15246,7 @@
           "batch"
         ],
         "change": -0.9892224943485205,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ],
     "2026-11-04": [
@@ -15266,7 +15266,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "stealth/crouton-alpha",
@@ -15284,7 +15284,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.3-flashx-legal-20261102",
@@ -15302,7 +15302,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baseten/joey-1-20261029",
@@ -15320,7 +15320,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "morph/reflex-20261103",
@@ -15338,7 +15338,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cloudflare/clairic-20261029",
@@ -15356,7 +15356,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/embed-5-pro-20261029",
@@ -15374,7 +15374,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/embed-5-fast-20261029",
@@ -15392,7 +15392,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "ricursiveai/ripple-65b-preview-20261104",
@@ -15410,7 +15410,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sourceful/riverflow-v2.6-pro-20261029",
@@ -15428,7 +15428,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-4-carbon-eap-20261028",
@@ -15446,7 +15446,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.5-sonnet-20250929",
@@ -15465,7 +15465,7 @@
           "standard"
         ],
         "change": -0.28623048052805966,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.7-20260916",
@@ -15484,7 +15484,7 @@
           "standard"
         ],
         "change": -0.5095962903939956,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "gmicloud/ripple-65b-preview-20261104",
@@ -15502,7 +15502,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/rerank-5-pro-20261028",
@@ -15520,7 +15520,7 @@
           "standard"
         ],
         "change": 6758607.452380952,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/rerank-5-fast-20261028",
@@ -15538,7 +15538,7 @@
           "standard"
         ],
         "change": 5598072.9772727275,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-mini",
@@ -15557,7 +15557,7 @@
           "standard"
         ],
         "change": 152798.94871794872,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.4-mini-20260317",
@@ -15576,7 +15576,7 @@
           "standard"
         ],
         "change": 462.0368679775281,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "particle-ai/particle-1-20261027",
@@ -15594,7 +15594,7 @@
           "standard"
         ],
         "change": 163.89387972122495,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baseten/elephant-1-20261021",
@@ -15612,7 +15612,7 @@
           "standard"
         ],
         "change": 90.97871786873868,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.3-20260430",
@@ -15631,7 +15631,7 @@
           "standard"
         ],
         "change": 82.96066054580622,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baseten/mammoth-1-20261021",
@@ -15649,7 +15649,7 @@
           "standard"
         ],
         "change": 75.10575727673225,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "assemblyai/assemblyai-tts-1-20261028",
@@ -15667,7 +15667,7 @@
           "standard"
         ],
         "change": 43.237474002647005,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/d1.1-20261027",
@@ -15685,7 +15685,7 @@
           "standard"
         ],
         "change": 22.202456242938748,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/titan-embed-text-v2-20261026",
@@ -15703,7 +15703,7 @@
           "standard"
         ],
         "change": 21.301894644587463,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "unbiased/pareto-26.9-20260917",
@@ -15721,7 +15721,7 @@
           "standard"
         ],
         "change": 12.28077040513403,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6.1-terra-pro-20261026",
@@ -15740,7 +15740,7 @@
           "standard"
         ],
         "change": 9.645902338752348,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-pro-20260514",
@@ -15758,7 +15758,7 @@
           "standard"
         ],
         "change": 9.571929148674336,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sakana/fugu-max-20260911",
@@ -15776,7 +15776,7 @@
           "standard"
         ],
         "change": 8.820546636146767,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6.1-terra-20261026",
@@ -15795,7 +15795,7 @@
           "standard"
         ],
         "change": 7.322878001326657,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moondream/moondream3.1-9b-a2b-20261013",
@@ -15813,7 +15813,7 @@
           "standard"
         ],
         "change": 5.419233705180252,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/north-mini-code-20260617",
@@ -15832,7 +15832,7 @@
           "standard"
         ],
         "change": 5.151263268500495,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/pplx-embed-v1-0.6b",
@@ -15850,7 +15850,7 @@
           "standard"
         ],
         "change": 4.626967905139388,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/pplx-embed-v1-4B",
@@ -15868,7 +15868,7 @@
           "standard"
         ],
         "change": 3.546039395266431,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moondream/moondream3-preview-20261013",
@@ -15886,7 +15886,7 @@
           "standard"
         ],
         "change": 3.27049730783005,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nace-ai/drex-v1.5-20261009",
@@ -15904,7 +15904,7 @@
           "standard"
         ],
         "change": 3.1285911964594457,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "heygen/heygen-voice-1-turbo-20261009",
@@ -15923,7 +15923,7 @@
           "standard"
         ],
         "change": 2.9447318391975044,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/titan-embed-text-v1-20261026",
@@ -15941,7 +15941,7 @@
           "standard"
         ],
         "change": 2.8178970985360703,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-content-safety-20260604",
@@ -15959,7 +15959,7 @@
           "standard"
         ],
         "change": 2.741391520671964,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/lfm-2.5-2.6b-20260811",
@@ -15978,7 +15978,7 @@
           "standard"
         ],
         "change": 2.659017562582248,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.8-flash-20260902",
@@ -15997,7 +15997,7 @@
           "standard"
         ],
         "change": 2.608359267170266,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-medium-3.1",
@@ -16015,7 +16015,7 @@
           "standard"
         ],
         "change": 2.6035826679518586,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-small-transcribe-3-0-20261020",
@@ -16033,7 +16033,7 @@
           "standard"
         ],
         "change": 2.595661978546507,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-astra-pro-20260903",
@@ -16052,7 +16052,7 @@
           "standard"
         ],
         "change": 2.337442080340546,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mixtral-8x22b-instruct",
@@ -16070,7 +16070,7 @@
           "standard"
         ],
         "change": 2.2747418331352054,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-flash-v2.5-20260930",
@@ -16088,7 +16088,7 @@
           "standard"
         ],
         "change": 2.148224282819052,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-luna-pro-20260709",
@@ -16107,7 +16107,7 @@
           "standard"
         ],
         "change": 2.1194022910984622,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-pro-2025-10-06",
@@ -16125,7 +16125,7 @@
           "standard"
         ],
         "change": 2.1156779443239895,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-coder-30b-a3b-instruct",
@@ -16143,7 +16143,7 @@
           "standard"
         ],
         "change": 2.0732369379586872,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-saba-2502",
@@ -16161,7 +16161,7 @@
           "standard"
         ],
         "change": 2.0606573129852097,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428",
@@ -16180,7 +16180,7 @@
           "standard"
         ],
         "change": 2.0133264171454526,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/d1-20260930",
@@ -16198,7 +16198,7 @@
           "standard"
         ],
         "change": 2.0126652541408454,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nace-ai/drex-max-20261016",
@@ -16216,7 +16216,7 @@
           "standard"
         ],
         "change": 1.9947842659893895,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-1.1-20260709",
@@ -16234,7 +16234,7 @@
           "standard"
         ],
         "change": 1.9442423981312729,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.1-codex-mini-20251113",
@@ -16252,7 +16252,7 @@
           "standard"
         ],
         "change": 1.8804655582316736,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/titan-embed-image-v1-20261026",
@@ -16270,7 +16270,7 @@
           "standard"
         ],
         "change": 1.87285987459421,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "respan/span-01-lite-20260925",
@@ -16289,7 +16289,7 @@
           "standard"
         ],
         "change": 1.8584835875242363,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m1",
@@ -16307,7 +16307,7 @@
           "standard"
         ],
         "change": 1.8335177989582683,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-sol-pro-20260709",
@@ -16325,7 +16325,7 @@
           "standard"
         ],
         "change": 1.791988757235159,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux-3-image-klein-20261015",
@@ -16343,7 +16343,7 @@
           "standard"
         ],
         "change": 1.785736105343031,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/o3-pro-2025-06-10",
@@ -16361,7 +16361,7 @@
           "standard"
         ],
         "change": 1.7794983924532022,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/lfm-2.5-24b-a2b-20261012",
@@ -16379,7 +16379,7 @@
           "standard"
         ],
         "change": 1.7674774193453777,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/microsoft-decision-1-20261009",
@@ -16397,7 +16397,7 @@
           "standard"
         ],
         "change": 1.7628610095288282,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "prism-ml/ternary-bonsai-2-9b-20261015",
@@ -16415,7 +16415,7 @@
           "standard"
         ],
         "change": 1.7326371277106485,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k3.1-pro-20261023",
@@ -16433,7 +16433,7 @@
           "standard"
         ],
         "change": 1.6632751673218884,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-luna-20260709",
@@ -16452,7 +16452,7 @@
           "standard"
         ],
         "change": 1.632656564786639,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6.1-sol-pro-20260929",
@@ -16471,7 +16471,7 @@
           "standard"
         ],
         "change": 1.5231927393203328,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-embedding-001",
@@ -16489,7 +16489,7 @@
           "standard"
         ],
         "change": 1.514135949367478,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6.1-sol-20260929",
@@ -16508,7 +16508,7 @@
           "standard"
         ],
         "change": 1.508035678113928,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seedream-5-0-lite-20260812",
@@ -16526,7 +16526,7 @@
           "standard"
         ],
         "change": 1.475271474869381,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-3-4b-it",
@@ -16544,7 +16544,7 @@
           "standard"
         ],
         "change": 1.4198764044291807,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-3.2-1b-instruct",
@@ -16562,7 +16562,7 @@
           "standard"
         ],
         "change": 1.3945960692155719,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-2.0-lite-20260309",
@@ -16580,7 +16580,7 @@
           "standard"
         ],
         "change": 1.3701424008472523,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-super-vl-20261015",
@@ -16599,7 +16599,7 @@
           "standard"
         ],
         "change": 1.3367344295020949,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.5",
@@ -16617,7 +16617,7 @@
           "standard"
         ],
         "change": 1.3199153720405261,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-v3-conversational-20260930",
@@ -16635,7 +16635,7 @@
           "standard"
         ],
         "change": 1.301713055301319,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance/ui-tars-1.5-7b",
@@ -16653,7 +16653,7 @@
           "standard"
         ],
         "change": 1.123864198603019,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-small-2603",
@@ -16671,7 +16671,7 @@
           "standard"
         ],
         "change": 1.1058306262147617,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seedream-5-0-flash-20261001",
@@ -16689,7 +16689,7 @@
           "standard"
         ],
         "change": 1.0830321253849546,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-turbo-v2.5-20260930",
@@ -16707,7 +16707,7 @@
           "standard"
         ],
         "change": 1.0627390387338218,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-v3-20260930",
@@ -16725,7 +16725,7 @@
           "standard"
         ],
         "change": 1.0364212986881371,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/command-a-plus-05-2026",
@@ -16743,7 +16743,7 @@
           "standard"
         ],
         "change": 1.034491271471515,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-nano-banana-2.1-20261006",
@@ -16761,7 +16761,7 @@
           "standard"
         ],
         "change": 0.9983966870171965,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3-flash-preview-20251217",
@@ -16780,7 +16780,7 @@
           "standard"
         ],
         "change": 0.9899596563077201,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m3.1-flash-20261019",
@@ -16798,7 +16798,7 @@
           "standard"
         ],
         "change": 0.977703050494389,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.6-35b-a3b-20260415",
@@ -16816,7 +16816,7 @@
           "standard"
         ],
         "change": 0.9542333484545501,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "scaledown/classify-1-20260928",
@@ -16834,7 +16834,7 @@
           "standard"
         ],
         "change": 0.9500545595230753,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-oss-20b",
@@ -16853,7 +16853,7 @@
           "standard"
         ],
         "change": 0.9492375800849345,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "canopylabs/orpheus-3b-0.1-ft",
@@ -16871,7 +16871,7 @@
           "standard"
         ],
         "change": 0.9326010729354266,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baai/bge-m3-20251117",
@@ -16889,7 +16889,7 @@
           "standard"
         ],
         "change": 0.9314122625213633,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "jaredpalmer/kev-4b-20260924",
@@ -16907,7 +16907,7 @@
           "standard"
         ],
         "change": 0.8969355846834969,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inclusionai/ling-3.0-flash-vl-20260910",
@@ -16925,7 +16925,7 @@
           "standard"
         ],
         "change": 0.8949107818716527,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-audio-3.0-tts-flash-20260723",
@@ -16943,7 +16943,7 @@
           "standard"
         ],
         "change": 0.887437035081519,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "writer/palmyra-x5-20250428",
@@ -16961,7 +16961,7 @@
           "standard"
         ],
         "change": 0.8586715098134227,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perceptron/perceptron-mk1-20260512",
@@ -16979,7 +16979,7 @@
           "standard"
         ],
         "change": 0.857853314625768,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/command-a-03-2025",
@@ -16997,7 +16997,7 @@
           "standard"
         ],
         "change": 0.8334212764018171,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inclusionai/ling-3.1-flash-20261002",
@@ -17015,7 +17015,7 @@
           "standard"
         ],
         "change": 0.8325157369461197,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/devstral-2512",
@@ -17033,7 +17033,7 @@
           "standard"
         ],
         "change": 0.8295620876456539,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-guard-4-12b",
@@ -17051,7 +17051,7 @@
           "standard"
         ],
         "change": 0.8266401166514611,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-image-2.5-pro-20260723",
@@ -17069,7 +17069,7 @@
           "standard"
         ],
         "change": 0.8251652356866579,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nex-agi/nex-n2.5-pro-20260907",
@@ -17087,7 +17087,7 @@
           "standard"
         ],
         "change": 0.8198967170514326,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-vl-30b-a3b-instruct",
@@ -17105,7 +17105,7 @@
           "standard"
         ],
         "change": 0.8180854397578338,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-coder-flash",
@@ -17123,7 +17123,7 @@
           "standard"
         ],
         "change": 0.8131193638245052,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v3-20260413",
@@ -17141,7 +17141,7 @@
           "standard"
         ],
         "change": 0.8128210739562045,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/phi-4",
@@ -17159,7 +17159,7 @@
           "standard"
         ],
         "change": 0.7681132766465293,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.6-20251208",
@@ -17177,7 +17177,7 @@
           "standard"
         ],
         "change": 0.7506860109174914,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cloudflare/clef-flash",
@@ -17195,7 +17195,7 @@
           "standard"
         ],
         "change": 0.746874177109359,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baai/bge-large-en-v1.5-20251117",
@@ -17213,7 +17213,7 @@
           "standard"
         ],
         "change": 0.7165360729301505,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thenlper/gte-large-20251117",
@@ -17231,7 +17231,7 @@
           "standard"
         ],
         "change": 0.6988474200671915,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-32b-04-28",
@@ -17249,7 +17249,7 @@
           "standard"
         ],
         "change": 0.6969444620104931,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/codestral-embed-2505",
@@ -17267,7 +17267,7 @@
           "standard"
         ],
         "change": 0.6808765914400823,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/command-r7b-12-2024",
@@ -17285,7 +17285,7 @@
           "standard"
         ],
         "change": 0.6543830574068573,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-v4-turbo-20260930",
@@ -17303,7 +17303,7 @@
           "standard"
         ],
         "change": 0.6278502637703699,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-1.3-20260902",
@@ -17321,7 +17321,7 @@
           "standard"
         ],
         "change": 0.6265315129660275,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-flash-v2-20260930",
@@ -17339,7 +17339,7 @@
           "standard"
         ],
         "change": 0.5553505535055351,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/pplx-decider-v1.2-20261016",
@@ -17357,7 +17357,7 @@
           "standard"
         ],
         "change": 0.5452501237602616,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-embedding-2",
@@ -17376,7 +17376,7 @@
           "standard"
         ],
         "change": 0.5197459856261079,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-2.4t-a95b-20260812",
@@ -17394,7 +17394,7 @@
           "standard"
         ],
         "change": 0.5071659097860898,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-14b-04-28",
@@ -17412,7 +17412,7 @@
           "standard"
         ],
         "change": 0.5040634207133752,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-35b-a3b-20260224",
@@ -17430,7 +17430,7 @@
           "standard"
         ],
         "change": 0.5004183268760203,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "stepfun/step-3.7-flash-20260528",
@@ -17448,7 +17448,7 @@
           "standard"
         ],
         "change": 0.49033299193898056,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sourceful/riverflow-v2-fast-20260130",
@@ -17466,7 +17466,7 @@
           "standard"
         ],
         "change": 0.4690306664613003,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-rerank-8b-20261021",
@@ -17484,7 +17484,7 @@
           "free"
         ],
         "change": 0.4649157676059565,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4.1-flash-20261017",
@@ -17502,7 +17502,7 @@
           "standard"
         ],
         "change": 0.45653813704241564,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux.2-flex",
@@ -17520,7 +17520,7 @@
           "standard"
         ],
         "change": 0.4521629832509362,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "unbiased/pareto-26.10-20261015",
@@ -17538,7 +17538,7 @@
           "standard"
         ],
         "change": 0.4501855622116624,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/command-r-08-2024",
@@ -17556,7 +17556,7 @@
           "standard"
         ],
         "change": 0.4488116394567837,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-rp-llama-3.1-8b",
@@ -17574,7 +17574,7 @@
           "standard"
         ],
         "change": 0.44222761561753904,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.5-20260708",
@@ -17592,7 +17592,7 @@
           "standard"
         ],
         "change": 0.43550750703155394,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-large-2407",
@@ -17610,7 +17610,7 @@
           "standard"
         ],
         "change": 0.4348815149793806,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m2.1",
@@ -17628,7 +17628,7 @@
           "standard"
         ],
         "change": 0.42967482388500866,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "togethercomputer/tev1-4b-experimental-20260923",
@@ -17646,7 +17646,7 @@
           "standard"
         ],
         "change": 0.4292393791825784,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux.2-klein-4b",
@@ -17664,7 +17664,7 @@
           "standard"
         ],
         "change": 0.42748718122285523,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-4-argon-20261013",
@@ -17683,7 +17683,7 @@
           "standard"
         ],
         "change": 0.427384028619603,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xingchen-agi/xing4.0-29b-a4b-20261015",
@@ -17702,7 +17702,7 @@
           "standard"
         ],
         "change": 0.4273088996335188,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-small-24b-2507",
@@ -17720,7 +17720,7 @@
           "standard"
         ],
         "change": 0.42147054940119405,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-large-2512",
@@ -17738,7 +17738,7 @@
           "standard"
         ],
         "change": 0.4194525006790669,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-build-0.1-20260520",
@@ -17756,7 +17756,7 @@
           "standard"
         ],
         "change": 0.41071890928835425,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-styles-pro-20260826",
@@ -17774,7 +17774,7 @@
           "standard"
         ],
         "change": 0.3978203986593494,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-235b-a22b-thinking-2507",
@@ -17792,7 +17792,7 @@
           "standard"
         ],
         "change": 0.3909813838093714,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-styles-pro-vector-20260826",
@@ -17810,7 +17810,7 @@
           "standard"
         ],
         "change": 0.3712347306286727,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-omni-flash-20260918",
@@ -17828,7 +17828,7 @@
           "standard"
         ],
         "change": 0.3664806089707352,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-mini-transcribe-3-0-20261020",
@@ -17846,7 +17846,7 @@
           "standard"
         ],
         "change": 0.35757857617997896,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/codestral-2508",
@@ -17864,7 +17864,7 @@
           "standard"
         ],
         "change": 0.34961766823712026,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-voice-2.1-flash-20261001",
@@ -17882,7 +17882,7 @@
           "standard"
         ],
         "change": 0.3423563017260814,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-2.5-pro",
@@ -17900,7 +17900,7 @@
           "standard"
         ],
         "change": 0.33237203486311717,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "rekaai/reka-edge-2603",
@@ -17918,7 +17918,7 @@
           "standard"
         ],
         "change": 0.3297600926607968,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy-mt2-30b-a3b-20260521",
@@ -17936,7 +17936,7 @@
           "standard"
         ],
         "change": 0.32858019344138295,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-turbo-v2-20260930",
@@ -17954,7 +17954,7 @@
           "standard"
         ],
         "change": 0.3200112978392882,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-image-20260528",
@@ -17972,7 +17972,7 @@
           "standard"
         ],
         "change": 0.31696040020475574,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-luna-pro-20260922",
@@ -17991,7 +17991,7 @@
           "standard"
         ],
         "change": 0.3145314146485323,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-medium-3",
@@ -18009,7 +18009,7 @@
           "standard"
         ],
         "change": 0.31280045221055364,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-max-20260902",
@@ -18027,7 +18027,7 @@
           "standard"
         ],
         "change": 0.30850191445985475,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-9b-20260310",
@@ -18045,7 +18045,7 @@
           "standard"
         ],
         "change": 0.2988039671426056,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-voice-2.1-20261001",
@@ -18063,7 +18063,7 @@
           "standard"
         ],
         "change": 0.29622174686219427,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "krea/k3-edit-20260914",
@@ -18081,7 +18081,7 @@
           "standard"
         ],
         "change": 0.28508166327446305,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-4-lite-20260727",
@@ -18099,7 +18099,7 @@
           "standard"
         ],
         "change": 0.28336030917109667,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-oss-safeguard-20b",
@@ -18117,7 +18117,7 @@
           "standard"
         ],
         "change": 0.2795969740952006,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-01",
@@ -18135,7 +18135,7 @@
           "standard"
         ],
         "change": 0.2770631976029703,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inference-net/schematron-v2-small-20260902",
@@ -18153,7 +18153,7 @@
           "standard"
         ],
         "change": 0.25180024325109535,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "stepfun/step-5-preview-20261008",
@@ -18171,7 +18171,7 @@
           "standard"
         ],
         "change": 0.24992002660174728,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-30b-a3b-instruct-2507",
@@ -18189,7 +18189,7 @@
           "standard"
         ],
         "change": 0.24526150844215477,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-2.0-mini-20260224",
@@ -18207,7 +18207,7 @@
           "standard"
         ],
         "change": 0.24118555224844643,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.2-codex-20260114",
@@ -18225,7 +18225,7 @@
           "standard"
         ],
         "change": 0.23879772719286854,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "hexgrad/kokoro-82m",
@@ -18243,7 +18243,7 @@
           "standard"
         ],
         "change": 0.23593580158656238,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-20260413",
@@ -18261,7 +18261,7 @@
           "standard"
         ],
         "change": 0.2336782194410051,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-code-4",
@@ -18279,7 +18279,7 @@
           "standard"
         ],
         "change": 0.23074526100496165,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy-mt2-7b-20260521",
@@ -18297,7 +18297,7 @@
           "standard"
         ],
         "change": 0.23020257796887056,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.1-codex-max-20251204",
@@ -18315,7 +18315,7 @@
           "standard"
         ],
         "change": 0.23011297487627788,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-5-fable-20260609",
@@ -18333,7 +18333,7 @@
           "standard"
         ],
         "change": 0.22865073371269062,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fish-audio/drama-3-20261013",
@@ -18351,7 +18351,7 @@
           "standard"
         ],
         "change": 0.22835195289257468,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-4-scout-17b-16e-instruct",
@@ -18369,7 +18369,7 @@
           "standard"
         ],
         "change": 0.2282179417326821,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-image-2.1-pro-20261016",
@@ -18387,7 +18387,7 @@
           "standard"
         ],
         "change": 0.22569548372029744,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-image-3-20260805",
@@ -18405,7 +18405,7 @@
           "standard"
         ],
         "change": 0.22012730996090316,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.5-flash-lite-20260721",
@@ -18424,7 +18424,7 @@
           "standard"
         ],
         "change": 0.21649656849348264,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "morph/morph-v3-large",
@@ -18442,7 +18442,7 @@
           "standard"
         ],
         "change": 0.2153616021319168,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-2-1-turbo-20260810",
@@ -18460,7 +18460,7 @@
           "standard"
         ],
         "change": 0.21387354448012957,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3-pro-image-preview-20251120",
@@ -18478,7 +18478,7 @@
           "standard"
         ],
         "change": 0.21379852237626285,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-lightning-20260807",
@@ -18497,7 +18497,7 @@
           "standard"
         ],
         "change": 0.21239771359392456,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perceptron/perceptron-mk1.5-20260925",
@@ -18515,7 +18515,7 @@
           "standard"
         ],
         "change": 0.20757540604988794,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-2024-11-20",
@@ -18533,7 +18533,7 @@
           "standard"
         ],
         "change": 0.20605236886164502,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-vl-235b-a22b-instruct",
@@ -18551,7 +18551,7 @@
           "standard"
         ],
         "change": 0.20006080382891678,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-2.5-coder-32b-instruct",
@@ -18569,7 +18569,7 @@
           "standard"
         ],
         "change": 0.19972774187060294,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-styles-20260826",
@@ -18587,7 +18587,7 @@
           "standard"
         ],
         "change": 0.19400439194977645,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-27b-20260814",
@@ -18605,7 +18605,7 @@
           "standard"
         ],
         "change": 0.19298671426407243,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.4-20260305",
@@ -18624,7 +18624,7 @@
           "standard"
         ],
         "change": 0.18570645670191702,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inception/mercury-decide-20260930",
@@ -18642,7 +18642,7 @@
           "standard"
         ],
         "change": 0.17614977101744478,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sao10k/l3.1-euryale-70b",
@@ -18660,7 +18660,7 @@
           "standard"
         ],
         "change": 0.17501639130143343,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-voice-tts-1.0",
@@ -18678,7 +18678,7 @@
           "standard"
         ],
         "change": 0.1747143434932636,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.4-pro-20260305",
@@ -18696,7 +18696,7 @@
           "standard"
         ],
         "change": 0.169239852346933,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-luna-decisions-20261006",
@@ -18714,7 +18714,7 @@
           "standard"
         ],
         "change": 0.16573114101576025,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-audio-mini",
@@ -18732,7 +18732,7 @@
           "standard"
         ],
         "change": 0.16453864689580033,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/nova-2-lite-v1",
@@ -18750,7 +18750,7 @@
           "standard"
         ],
         "change": 0.16110003611303986,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/sonar-pro",
@@ -18768,7 +18768,7 @@
           "standard"
         ],
         "change": 0.15860451359030614,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-mini-transcribe-2602",
@@ -18786,7 +18786,7 @@
           "standard"
         ],
         "change": 0.15607917481873185,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy-image-v3.5-preview-20260922",
@@ -18804,7 +18804,7 @@
           "standard"
         ],
         "change": 0.14642270592983067,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.8-flash-lite-tts-20260922",
@@ -18822,7 +18822,7 @@
           "standard"
         ],
         "change": 0.14475475858673195,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/nova-lite-v1",
@@ -18840,7 +18840,7 @@
           "standard"
         ],
         "change": 0.14459483901735531,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inclusionai/ling-3.0-flash-20260723",
@@ -18858,7 +18858,7 @@
           "standard"
         ],
         "change": 0.14388599440493455,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-mini-transcribe",
@@ -18876,7 +18876,7 @@
           "standard"
         ],
         "change": 0.1422742197357184,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-open-20261015",
@@ -18894,7 +18894,7 @@
           "standard"
         ],
         "change": 0.14102654011885546,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/rerank-2.5-20260727",
@@ -18912,7 +18912,7 @@
           "standard"
         ],
         "change": 0.13762473787353174,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-3.1-8b-instruct",
@@ -18930,7 +18930,7 @@
           "standard"
         ],
         "change": 0.13712236885168527,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-2-27b-it",
@@ -18948,7 +18948,7 @@
           "standard"
         ],
         "change": 0.1335427548674045,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.7-flash-20260727",
@@ -18966,7 +18966,7 @@
           "standard"
         ],
         "change": 0.13313086011042305,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-20260514",
@@ -18984,7 +18984,7 @@
           "standard"
         ],
         "change": 0.13083889156004927,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "dots-studio/dots-3-note-preview-20260813",
@@ -19003,7 +19003,7 @@
           "standard"
         ],
         "change": 0.12145591382782159,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/text-embedding-3-large",
@@ -19021,7 +19021,7 @@
           "standard"
         ],
         "change": 0.12091794055652945,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/rerank-2.5-lite-20260727",
@@ -19039,7 +19039,7 @@
           "standard"
         ],
         "change": 0.11551755863049774,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-3.5-20260923",
@@ -19057,7 +19057,7 @@
           "standard"
         ],
         "change": 0.1129993610763118,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-4-31b-it-20260402",
@@ -19076,7 +19076,7 @@
           "standard"
         ],
         "change": 0.11099086573358963,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k3-20260715",
@@ -19095,7 +19095,7 @@
           "standard"
         ],
         "change": 0.11080533868736503,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-v4-20260930",
@@ -19113,7 +19113,7 @@
           "standard"
         ],
         "change": 0.10878913344479978,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/lyria-3-pro-preview-20260330",
@@ -19131,7 +19131,7 @@
           "standard"
         ],
         "change": 0.10518528615199238,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "krea/krea-2-medium-turbo-20260720",
@@ -19149,7 +19149,7 @@
           "standard"
         ],
         "change": 0.10101160277326426,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-2.0-20260223",
@@ -19167,7 +19167,7 @@
           "standard"
         ],
         "change": 0.09962059667696842,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-image-2.5-flare-20260908",
@@ -19185,7 +19185,7 @@
           "standard"
         ],
         "change": 0.09561331210446723,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-wonder-20261012",
@@ -19203,7 +19203,7 @@
           "standard"
         ],
         "change": 0.09535139914802544,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m2-her-20260123",
@@ -19221,7 +19221,7 @@
           "standard"
         ],
         "change": 0.09368148890719959,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-reranker-8b",
@@ -19239,7 +19239,7 @@
           "standard"
         ],
         "change": 0.0917097574095326,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-super-120b-a12b-20230311",
@@ -19257,7 +19257,7 @@
           "standard"
         ],
         "change": 0.08727846204493618,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/ministral-3b-2512",
@@ -19275,7 +19275,7 @@
           "standard"
         ],
         "change": 0.0868510637432516,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/pplx-decider-flash-v1.2-20261016",
@@ -19293,7 +19293,7 @@
           "standard"
         ],
         "change": 0.08175799597089467,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5-turbo-20260315",
@@ -19311,7 +19311,7 @@
           "standard"
         ],
         "change": 0.07901868449573995,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-pro-vector-20260514",
@@ -19329,7 +19329,7 @@
           "standard"
         ],
         "change": 0.07896515796962082,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/eleven-multilingual-v2-20260930",
@@ -19347,7 +19347,7 @@
           "standard"
         ],
         "change": 0.07856444894925059,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-4-maverick-17b-128e-instruct",
@@ -19365,7 +19365,7 @@
           "standard"
         ],
         "change": 0.07736948433805516,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-lite-preview-20260303",
@@ -19383,7 +19383,7 @@
           "standard"
         ],
         "change": 0.07717559844795051,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-3.2-3b-instruct",
@@ -19401,7 +19401,7 @@
           "standard"
         ],
         "change": 0.07665192644668932,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/text-embedding-3-small",
@@ -19419,7 +19419,7 @@
           "standard"
         ],
         "change": 0.07335181412890283,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-3-12b-it",
@@ -19437,7 +19437,7 @@
           "standard"
         ],
         "change": 0.07282932127094596,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-voice-2",
@@ -19455,7 +19455,7 @@
           "standard"
         ],
         "change": 0.06857424155051407,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3-pro-image-20260528",
@@ -19473,7 +19473,7 @@
           "standard"
         ],
         "change": 0.06735559953866817,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-image-2.5-sunburst-20260908",
@@ -19491,7 +19491,7 @@
           "standard"
         ],
         "change": 0.06699321705941767,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.3-flash-20260826",
@@ -19510,7 +19510,7 @@
           "standard"
         ],
         "change": 0.05988007214359908,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.1-20260406",
@@ -19528,7 +19528,7 @@
           "standard"
         ],
         "change": 0.05969285777444806,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-audio",
@@ -19546,7 +19546,7 @@
           "standard"
         ],
         "change": 0.05576843434241899,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.7-20251222",
@@ -19564,7 +19564,7 @@
           "standard"
         ],
         "change": 0.05379132335265231,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meituan/longcat-2.0-20260720",
@@ -19582,7 +19582,7 @@
           "standard"
         ],
         "change": 0.04954281418961177,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-utility-20260514",
@@ -19600,7 +19600,7 @@
           "standard"
         ],
         "change": 0.04903583859154629,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-mini-2025-08-07",
@@ -19618,7 +19618,7 @@
           "standard"
         ],
         "change": 0.0483498461190123,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thedrummer/skyfall-36b-v2",
@@ -19636,7 +19636,7 @@
           "standard"
         ],
         "change": 0.04784298661227326,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-3-27b-it",
@@ -19654,7 +19654,7 @@
           "standard"
         ],
         "change": 0.04575566409354469,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-chat-latest-20260505",
@@ -19672,7 +19672,7 @@
           "standard"
         ],
         "change": 0.045026199811846135,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepgram/flux-tts-20260812",
@@ -19690,7 +19690,7 @@
           "standard"
         ],
         "change": 0.04379236379236379,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2.6-20260420",
@@ -19708,7 +19708,7 @@
           "standard"
         ],
         "change": 0.04335743070707361,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.7-flash-20260813",
@@ -19727,7 +19727,7 @@
           "standard"
         ],
         "change": 0.04083103813386394,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hunyuan-a13b-instruct",
@@ -19745,7 +19745,7 @@
           "standard"
         ],
         "change": 0.04014385672753628,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-flash-20260224",
@@ -19763,7 +19763,7 @@
           "standard"
         ],
         "change": 0.03891017513463487,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-nemo",
@@ -19781,7 +19781,7 @@
           "standard"
         ],
         "change": 0.038842054129373596,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-opus-5.5-20260921",
@@ -19800,7 +19800,7 @@
           "standard"
         ],
         "change": 0.03850104357514819,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-235b-a22b-07-25",
@@ -19818,7 +19818,7 @@
           "standard"
         ],
         "change": 0.03779393908266805,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "upstage/solar-mini4-20260922",
@@ -19836,7 +19836,7 @@
           "standard"
         ],
         "change": 0.0374483567305097,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemma-4-26b-a4b-it-20260403",
@@ -19855,7 +19855,7 @@
           "standard"
         ],
         "change": 0.03599096686109258,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.5-transcribe-20260827",
@@ -19873,7 +19873,7 @@
           "standard"
         ],
         "change": 0.03370487642573613,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-4-20260727",
@@ -19891,7 +19891,7 @@
           "standard"
         ],
         "change": 0.03253287217041558,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-imagine-image-2.0-20260811",
@@ -19909,7 +19909,7 @@
           "standard"
         ],
         "change": 0.03225513855507071,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-embedding-2-preview",
@@ -19927,7 +19927,7 @@
           "standard"
         ],
         "change": 0.03143786718051797,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "gryphe/mythomax-l2-13b",
@@ -19945,7 +19945,7 @@
           "standard"
         ],
         "change": 0.027367982847798063,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/speech-2.8-turbo-20260716",
@@ -19963,7 +19963,7 @@
           "standard"
         ],
         "change": 0.024103515652455054,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.6-opus-20260205",
@@ -19981,7 +19981,7 @@
           "standard"
         ],
         "change": 0.022842439307346418,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-small-3.2-24b-instruct-2506",
@@ -19999,7 +19999,7 @@
           "standard"
         ],
         "change": 0.021572495116668013,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-chat-v3.1",
@@ -20017,7 +20017,7 @@
           "standard"
         ],
         "change": 0.01986682955120867,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sakana/fugu-ultra-20260615",
@@ -20035,7 +20035,7 @@
           "standard"
         ],
         "change": 0.018550938208862423,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.6-flash",
@@ -20053,7 +20053,7 @@
           "standard"
         ],
         "change": 0.017298684583686795,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-mini-tts-3-0-20261020",
@@ -20071,7 +20071,7 @@
           "standard"
         ],
         "change": 0.017227111446815532,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-2.5-flash",
@@ -20089,7 +20089,7 @@
           "standard"
         ],
         "change": 0.015699599775933548,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.1-20251113",
@@ -20107,7 +20107,7 @@
           "standard"
         ],
         "change": 0.01494814184134105,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fish-audio/s2.1-pro-20260729",
@@ -20125,7 +20125,7 @@
           "standard"
         ],
         "change": 0.014514957746623487,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-pro-vector-20260514",
@@ -20143,7 +20143,7 @@
           "standard"
         ],
         "change": 0.014276076675951434,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.4-nano-20260317",
@@ -20162,7 +20162,7 @@
           "standard"
         ],
         "change": 0.014208236361587983,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "Qwen/Qwen3-Embedding-8B",
@@ -20180,7 +20180,7 @@
           "standard"
         ],
         "change": 0.012414007062359789,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-image-1-mini",
@@ -20198,7 +20198,7 @@
           "standard"
         ],
         "change": 0.010982584844932803,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-sonnet-5.5-20260928",
@@ -20217,7 +20217,7 @@
           "standard"
         ],
         "change": 0.010053661973956773,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-sol-20260709",
@@ -20236,7 +20236,7 @@
           "standard"
         ],
         "change": 0.008748024429996988,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.8-opus-20260528",
@@ -20254,7 +20254,7 @@
           "standard"
         ],
         "change": 0.00641925197443452,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-coder-480b-a35b-07-25",
@@ -20272,7 +20272,7 @@
           "standard"
         ],
         "change": 0.006246360712738478,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "morph/morph-v3-fast",
@@ -20290,7 +20290,7 @@
           "standard"
         ],
         "change": 0.004773629501065892,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "respan/span-02-20261015",
@@ -20308,7 +20308,7 @@
           "standard"
         ],
         "change": 0.004375432738871793,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sao10k/l3-lunaris-8b",
@@ -20326,7 +20326,7 @@
           "standard"
         ],
         "change": 0.002232962201557588,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-1.3-contributor-20260902",
@@ -20344,7 +20344,7 @@
           "standard"
         ],
         "change": 0.0019644257358177094,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v3.2-exp",
@@ -20362,7 +20362,7 @@
           "standard"
         ],
         "change": 5.278543840047637e-05,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5v-turbo-20260401",
@@ -20380,7 +20380,7 @@
           "standard"
         ],
         "change": -0.0026617235808995745,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-haiku-5.5-20261007",
@@ -20399,7 +20399,7 @@
           "standard"
         ],
         "change": -0.003290385345842926,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-embedding-8b",
@@ -20417,7 +20417,7 @@
           "standard"
         ],
         "change": -0.0038025986546635334,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.6-27b-20260422",
@@ -20435,7 +20435,7 @@
           "standard"
         ],
         "change": -0.007918076081188993,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-transcribe",
@@ -20453,7 +20453,7 @@
           "standard"
         ],
         "change": -0.010435243472682197,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/sonar",
@@ -20471,7 +20471,7 @@
           "standard"
         ],
         "change": -0.011960064995674265,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-3.5-turbo-16k",
@@ -20489,7 +20489,7 @@
           "standard"
         ],
         "change": -0.012110907810327228,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5-20260211",
@@ -20507,7 +20507,7 @@
           "standard"
         ],
         "change": -0.014557747954631694,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-vector-20260514",
@@ -20525,7 +20525,7 @@
           "standard"
         ],
         "change": -0.014874417010248497,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.5v",
@@ -20543,7 +20543,7 @@
           "standard"
         ],
         "change": -0.015846953142416187,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-coder-next-2025-02-03",
@@ -20561,7 +20561,7 @@
           "standard"
         ],
         "change": -0.017723580706037217,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/command-r-plus-08-2024",
@@ -20579,7 +20579,7 @@
           "standard"
         ],
         "change": -0.02057083664681701,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-vector-20260514",
@@ -20597,7 +20597,7 @@
           "standard"
         ],
         "change": -0.023231745855207365,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4.1-flash-20260910",
@@ -20616,7 +20616,7 @@
           "standard"
         ],
         "change": -0.024654841528403186,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nousresearch/hermes-4-405b",
@@ -20634,7 +20634,7 @@
           "standard"
         ],
         "change": -0.025308579023510806,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "scaledown/summarize-20260928",
@@ -20652,7 +20652,7 @@
           "standard"
         ],
         "change": -0.025938517364910277,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/sonar-pro-search",
@@ -20670,7 +20670,7 @@
           "standard"
         ],
         "change": -0.02693761247555661,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-nano-30b-a3b",
@@ -20688,7 +20688,7 @@
           "standard"
         ],
         "change": -0.0315632884457387,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-plus-2025-01-25",
@@ -20706,7 +20706,7 @@
           "standard"
         ],
         "change": -0.03257618483019451,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m2.7-20260318",
@@ -20724,7 +20724,7 @@
           "standard"
         ],
         "change": -0.03260899016042876,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy3-20260706",
@@ -20742,7 +20742,7 @@
           "standard"
         ],
         "change": -0.03308256351517874,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v3.2-20251201",
@@ -20760,7 +20760,7 @@
           "standard"
         ],
         "change": -0.03372721789706089,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "venice/uncensored",
@@ -20778,7 +20778,7 @@
           "standard"
         ],
         "change": -0.03571352164327189,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/ministral-14b-2512",
@@ -20796,7 +20796,7 @@
           "standard"
         ],
         "change": -0.03885357465978285,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/nova-micro-v1",
@@ -20814,7 +20814,7 @@
           "standard"
         ],
         "change": -0.039206179363898516,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-pro-preview-20260219",
@@ -20833,7 +20833,7 @@
           "standard"
         ],
         "change": -0.04017361456130864,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.6-flash-20260721",
@@ -20852,7 +20852,7 @@
           "standard"
         ],
         "change": -0.04081161929294256,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/lfm-2.5-embedding-350m-20260818",
@@ -20870,7 +20870,7 @@
           "free"
         ],
         "change": -0.043404040052106574,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-image-2.5",
@@ -20888,7 +20888,7 @@
           "standard"
         ],
         "change": -0.04401279315295292,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4-pro-20260423",
@@ -20906,7 +20906,7 @@
           "standard"
         ],
         "change": -0.04407029083251889,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o",
@@ -20924,7 +20924,7 @@
           "standard"
         ],
         "change": -0.04498261307463305,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-tts-preview",
@@ -20942,7 +20942,7 @@
           "standard"
         ],
         "change": -0.046491224292656806,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-image-2.1-turbo-20261016",
@@ -20960,7 +20960,7 @@
           "standard"
         ],
         "change": -0.04818617109744051,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-sonnet-5-20260630",
@@ -20979,7 +20979,7 @@
           "standard"
         ],
         "change": -0.048907909730465673,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-voice-2-flash-20260723",
@@ -20997,7 +20997,7 @@
           "standard"
         ],
         "change": -0.04975276907695421,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/lyria-3-clip-preview-20260330",
@@ -21015,7 +21015,7 @@
           "standard"
         ],
         "change": -0.049756406237184435,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thinkingmachines/inkling-small-20260730",
@@ -21034,7 +21034,7 @@
           "standard"
         ],
         "change": -0.05083728998047888,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-image-2.6-20260904",
@@ -21052,7 +21052,7 @@
           "standard"
         ],
         "change": -0.051769110412401724,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sentence-transformers/all-mpnet-base-v2-20251117",
@@ -21070,7 +21070,7 @@
           "standard"
         ],
         "change": -0.053401452488594486,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.8-flash-tts-20260922",
@@ -21088,7 +21088,7 @@
           "standard"
         ],
         "change": -0.055001133785966175,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "heygen/heygen-voice-1-20261009",
@@ -21106,7 +21106,7 @@
           "standard"
         ],
         "change": -0.05517091488668059,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "typesafe/jev-1.13-20260917",
@@ -21124,7 +21124,7 @@
           "standard"
         ],
         "change": -0.05806423220283755,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-2.5-flash-lite",
@@ -21142,7 +21142,7 @@
           "standard"
         ],
         "change": -0.05889733450747756,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.20-20260309",
@@ -21160,7 +21160,7 @@
           "standard"
         ],
         "change": -0.05986179652800398,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-image-mini",
@@ -21178,7 +21178,7 @@
           "standard"
         ],
         "change": -0.06064472609228955,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.2-20260616",
@@ -21196,7 +21196,7 @@
           "standard"
         ],
         "change": -0.0631638880723873,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/text-embedding-ada-002",
@@ -21214,18 +21214,18 @@
           "standard"
         ],
         "change": -0.06482170840563942,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-luna-20260922",
         "model_name": "gpt-6-luna",
         "provider": "openai",
         "provider_alias": "OpenAI",
-        "count": 552332604,
-        "prompt_tokens": 8755756255236,
-        "completion_tokens": 256569884648,
+        "count": 552340822,
+        "prompt_tokens": 8755801082717,
+        "completion_tokens": 256573064435,
         "reasoning_tokens": 0,
-        "total_tokens": 9012326139884,
+        "total_tokens": 9012374147152,
         "native_tokens_cached": 0,
         "tool_calls": 0,
         "variants": [
@@ -21233,7 +21233,7 @@
           "standard"
         ],
         "change": -0.0668858023396788,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "liquid/d1-ultra-20261015",
@@ -21251,7 +21251,7 @@
           "standard"
         ],
         "change": -0.06702429879524838,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-chat-v3-0324",
@@ -21269,7 +21269,7 @@
           "standard"
         ],
         "change": -0.06737036245304374,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-embed-1b-20261021",
@@ -21287,7 +21287,7 @@
           "free"
         ],
         "change": -0.06740156301885482,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-chat-v3",
@@ -21305,7 +21305,7 @@
           "standard"
         ],
         "change": -0.06784474249455914,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthracite-org/magnum-v4-72b",
@@ -21323,7 +21323,7 @@
           "standard"
         ],
         "change": -0.07067735588311522,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m2",
@@ -21341,7 +21341,7 @@
           "standard"
         ],
         "change": -0.0715457475540633,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "typesafe/jev-1.14-20261014",
@@ -21359,7 +21359,7 @@
           "standard"
         ],
         "change": -0.0720186651328718,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-image-3-pro-20260805",
@@ -21377,7 +21377,7 @@
           "standard"
         ],
         "change": -0.07301858619444299,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "undi95/remm-slerp-l2-13b",
@@ -21395,7 +21395,7 @@
           "standard"
         ],
         "change": -0.07341115497446236,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4.1-mini-2025-04-14",
@@ -21413,7 +21413,7 @@
           "standard"
         ],
         "change": -0.07777306396104378,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-image-2.6-flash-20260904",
@@ -21431,7 +21431,7 @@
           "standard"
         ],
         "change": -0.07942741587065703,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-4-large-20260727",
@@ -21449,7 +21449,7 @@
           "standard"
         ],
         "change": -0.08262979765986242,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.5-opus-20251124",
@@ -21467,7 +21467,7 @@
           "standard"
         ],
         "change": -0.08457519765082848,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4-flash-20260731",
@@ -21485,7 +21485,7 @@
           "standard"
         ],
         "change": -0.08854093475589699,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2.7-code-20260612",
@@ -21503,7 +21503,7 @@
           "standard"
         ],
         "change": -0.09184880587753023,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-embedding-4b",
@@ -21521,7 +21521,7 @@
           "standard"
         ],
         "change": -0.0939922306559229,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy4-preview-20260827",
@@ -21539,7 +21539,7 @@
           "standard"
         ],
         "change": -0.09527078295244243,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v3.1-terminus",
@@ -21557,7 +21557,7 @@
           "standard"
         ],
         "change": -0.09758804710799891,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-lite-image-20260630",
@@ -21575,7 +21575,7 @@
           "standard"
         ],
         "change": -0.09814105626451115,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-1.2-contributor-20260805",
@@ -21593,7 +21593,7 @@
           "standard"
         ],
         "change": -0.09814163052053765,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-2.5-72b-instruct",
@@ -21611,7 +21611,7 @@
           "standard"
         ],
         "change": -0.09825558081304347,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-audio-1-0-20260630",
@@ -21629,7 +21629,7 @@
           "standard"
         ],
         "change": -0.10142944947999705,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-multimodal-3.5-20260727",
@@ -21647,7 +21647,7 @@
           "standard"
         ],
         "change": -0.10153253003246891,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-oss-120b",
@@ -21666,7 +21666,7 @@
           "standard"
         ],
         "change": -0.10220947417541093,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-flash-20260826",
@@ -21684,7 +21684,7 @@
           "standard"
         ],
         "change": -0.1045666792819032,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.6-plus-04-02",
@@ -21702,7 +21702,7 @@
           "standard"
         ],
         "change": -0.10596724533900317,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-r1-0528",
@@ -21720,7 +21720,7 @@
           "standard"
         ],
         "change": -0.10612909907853849,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-lite-20260507",
@@ -21739,7 +21739,7 @@
           "standard"
         ],
         "change": -0.10814958824020565,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.4-image-2-20260421",
@@ -21757,7 +21757,7 @@
           "standard"
         ],
         "change": -0.11012769753046517,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-astra-20260903",
@@ -21776,7 +21776,7 @@
           "standard"
         ],
         "change": -0.11149003625446624,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-sol-20260922",
@@ -21795,7 +21795,7 @@
           "standard"
         ],
         "change": -0.11210350780671367,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.6-sonnet-20260217",
@@ -21813,7 +21813,7 @@
           "standard"
         ],
         "change": -0.11450741139052903,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-flash-image-preview-20260226",
@@ -21831,7 +21831,7 @@
           "standard"
         ],
         "change": -0.12072760285039766,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thinkingmachines/inkling-20260715",
@@ -21850,7 +21850,7 @@
           "standard"
         ],
         "change": -0.12078636608100128,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy3-preview-20260421",
@@ -21868,7 +21868,7 @@
           "standard"
         ],
         "change": -0.12231164293200691,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-3.1-70b-instruct",
@@ -21886,7 +21886,7 @@
           "standard"
         ],
         "change": -0.12537759303521961,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2.5-0127",
@@ -21904,7 +21904,7 @@
           "standard"
         ],
         "change": -0.12608949635632521,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "ibm-granite/granite-4.2-8b-20260831",
@@ -21922,7 +21922,7 @@
           "standard"
         ],
         "change": -0.1270172898695962,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.3-flashx-20260918",
@@ -21940,7 +21940,7 @@
           "standard"
         ],
         "change": -0.1275605697068341,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/sonar-reasoning-pro",
@@ -21958,7 +21958,7 @@
           "standard"
         ],
         "change": -0.13181879702879562,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4-flash-20260423",
@@ -21976,7 +21976,7 @@
           "standard"
         ],
         "change": -0.13440244069048934,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-terra-20260709",
@@ -21995,7 +21995,7 @@
           "standard"
         ],
         "change": -0.1348020488018104,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepgram/aura-2-20260716",
@@ -22013,7 +22013,7 @@
           "standard"
         ],
         "change": -0.1353597925209588,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-small-24b-instruct-2501",
@@ -22031,7 +22031,7 @@
           "standard"
         ],
         "change": -0.13596154414560094,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-embed-1b-20260716",
@@ -22049,7 +22049,7 @@
           "free"
         ],
         "change": -0.13701922102279765,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inception/mercury-2-20260304",
@@ -22067,7 +22067,7 @@
           "standard"
         ],
         "change": -0.14184025912847795,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sesame/csm-1b",
@@ -22085,7 +22085,7 @@
           "standard"
         ],
         "change": -0.14232782450155854,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-3.0-mini-20260707",
@@ -22103,7 +22103,7 @@
           "standard"
         ],
         "change": -0.14238099332355167,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seedream-5-0-pro-20260812",
@@ -22121,7 +22121,7 @@
           "standard"
         ],
         "change": -0.14275391443816735,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "stepfun/step-3.5-flash",
@@ -22139,7 +22139,7 @@
           "standard"
         ],
         "change": -0.14890054026431115,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.5-haiku-20251001",
@@ -22157,7 +22157,7 @@
           "standard"
         ],
         "change": -0.14940206981294452,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-2.5-flash-image",
@@ -22175,7 +22175,7 @@
           "standard"
         ],
         "change": -0.15006577329771612,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sentence-transformers/all-minilm-l6-v2-20251117",
@@ -22193,7 +22193,7 @@
           "standard"
         ],
         "change": -0.15173622919759883,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-fable-5.1-20260831",
@@ -22212,7 +22212,7 @@
           "standard"
         ],
         "change": -0.15397672997469736,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-397b-a17b-20260216",
@@ -22230,7 +22230,7 @@
           "standard"
         ],
         "change": -0.15492535548056716,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "upstage/solar-pro4-20260810",
@@ -22248,7 +22248,7 @@
           "standard"
         ],
         "change": -0.15556513813335704,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4.1-2025-04-14",
@@ -22266,7 +22266,7 @@
           "standard"
         ],
         "change": -0.15758000209095097,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/o3-2025-04-16",
@@ -22284,7 +22284,7 @@
           "standard"
         ],
         "change": -0.15828973482923725,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4-pro-20260813",
@@ -22302,7 +22302,7 @@
           "standard"
         ],
         "change": -0.15929511612739292,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-nano-2025-08-07",
@@ -22321,7 +22321,7 @@
           "standard"
         ],
         "change": -0.1600523090007518,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-3.5-mini-20260923",
@@ -22339,7 +22339,7 @@
           "standard"
         ],
         "change": -0.16802928288777175,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-4",
@@ -22357,7 +22357,7 @@
           "standard"
         ],
         "change": -0.168603874884927,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-3.5-turbo-0613",
@@ -22375,7 +22375,7 @@
           "standard"
         ],
         "change": -0.16909262884519802,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thedrummer/cydonia-24b-v4.1",
@@ -22393,7 +22393,7 @@
           "standard"
         ],
         "change": -0.1695282149475233,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-image-2",
@@ -22411,7 +22411,7 @@
           "standard"
         ],
         "change": -0.17239369427256293,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux.2-pro",
@@ -22429,7 +22429,7 @@
           "standard"
         ],
         "change": -0.17442886427152515,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux.2-max",
@@ -22447,7 +22447,7 @@
           "standard"
         ],
         "change": -0.17675037245599545,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "relace/relace-search-20251208",
@@ -22465,7 +22465,7 @@
           "standard"
         ],
         "change": -0.1772108737984215,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-spark-1.2-20260805",
@@ -22483,7 +22483,7 @@
           "standard"
         ],
         "change": -0.17732259875937592,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-glimmer-30b-20260810",
@@ -22501,7 +22501,7 @@
           "standard"
         ],
         "change": -0.17761780222162693,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-large-4-0-20261006",
@@ -22519,7 +22519,7 @@
           "standard"
         ],
         "change": -0.18189551541538057,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sourceful/riverflow-v2.5-pro-20260605",
@@ -22537,7 +22537,7 @@
           "standard"
         ],
         "change": -0.18830555767728346,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.6",
@@ -22555,7 +22555,7 @@
           "standard"
         ],
         "change": -0.1885158277248615,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "upstage/solar-decide-flash-20261008",
@@ -22573,7 +22573,7 @@
           "standard"
         ],
         "change": -0.1914604250923738,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.3-prime-20260921",
@@ -22591,7 +22591,7 @@
           "standard"
         ],
         "change": -0.19257032897112478,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen2.5-vl-72b-instruct",
@@ -22609,7 +22609,7 @@
           "standard"
         ],
         "change": -0.19262422903287488,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.7-max-20260520",
@@ -22627,7 +22627,7 @@
           "standard"
         ],
         "change": -0.1960428023215304,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/llama-nemotron-embed-vl-1b-v2-20260224",
@@ -22645,7 +22645,7 @@
           "free"
         ],
         "change": -0.19630836936239432,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.5-20260423",
@@ -22663,7 +22663,7 @@
           "standard"
         ],
         "change": -0.20266772043942996,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/rerank-3-lite-20260930",
@@ -22681,7 +22681,7 @@
           "standard"
         ],
         "change": -0.20511208301042902,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-embed-2312",
@@ -22699,7 +22699,7 @@
           "standard"
         ],
         "change": -0.20618246211262486,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/llama-nemotron-rerank-vl-1b-v2",
@@ -22717,7 +22717,7 @@
           "free"
         ],
         "change": -0.20739510555993695,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta-llama/llama-3.3-70b-instruct",
@@ -22735,7 +22735,7 @@
           "standard"
         ],
         "change": -0.2074379653035637,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sourceful/riverflow-v2-pro-20260130",
@@ -22753,7 +22753,7 @@
           "standard"
         ],
         "change": -0.2086304999242317,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seedream-4.5-20251203",
@@ -22771,7 +22771,7 @@
           "standard"
         ],
         "change": -0.2090166867577188,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-large",
@@ -22789,7 +22789,7 @@
           "standard"
         ],
         "change": -0.2095121443711033,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.2-pro-20251211",
@@ -22807,7 +22807,7 @@
           "standard"
         ],
         "change": -0.2095784567498644,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "aion-labs/aion-3.0-20260707",
@@ -22825,7 +22825,7 @@
           "standard"
         ],
         "change": -0.21563624927784067,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-ultra-550b-a55b-20260604",
@@ -22844,7 +22844,7 @@
           "standard"
         ],
         "change": -0.2178892507218195,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "krea/krea-2-medium-20260720",
@@ -22862,7 +22862,7 @@
           "standard"
         ],
         "change": -0.22339696656647398,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m2.5-20260211",
@@ -22880,7 +22880,7 @@
           "standard"
         ],
         "change": -0.22584672993138785,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-1.6-flash-20250625",
@@ -22898,7 +22898,7 @@
           "standard"
         ],
         "change": -0.2264390830467326,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xiaomi/mimo-v2.5-20260422",
@@ -22916,7 +22916,7 @@
           "standard"
         ],
         "change": -0.2278922264850902,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2-0905",
@@ -22934,7 +22934,7 @@
           "standard"
         ],
         "change": -0.23301880282618684,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xiaomi/mimo-v2.6-pro-20260921",
@@ -22952,7 +22952,7 @@
           "standard"
         ],
         "change": -0.24176417188226132,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.7-plus-20260602",
@@ -22971,7 +22971,7 @@
           "standard"
         ],
         "change": -0.24346315730185641,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.5-flash-20260519",
@@ -22990,7 +22990,7 @@
           "standard"
         ],
         "change": -0.24458767277815713,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2",
@@ -23008,7 +23008,7 @@
           "standard"
         ],
         "change": -0.24474873761073793,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-2024-08-06",
@@ -23026,7 +23026,7 @@
           "standard"
         ],
         "change": -0.2453691752109918,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-small-3.1-24b-instruct-2503",
@@ -23044,7 +23044,7 @@
           "standard"
         ],
         "change": -0.24873643068907572,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.8-max-prime-20260923",
@@ -23062,7 +23062,7 @@
           "standard"
         ],
         "change": -0.25256277918765985,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nace-ai/drex-v2.0-20261009",
@@ -23080,7 +23080,7 @@
           "standard"
         ],
         "change": -0.26109494667247596,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-vl-30b-a3b-thinking",
@@ -23098,7 +23098,7 @@
           "standard"
         ],
         "change": -0.26203297904805417,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thedrummer/unslopnemo-12b",
@@ -23116,7 +23116,7 @@
           "standard"
         ],
         "change": -0.26259262184178606,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/sonar-deep-research",
@@ -23134,7 +23134,7 @@
           "standard"
         ],
         "change": -0.2632281427836352,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-plus-20260216",
@@ -23152,7 +23152,7 @@
           "standard"
         ],
         "change": -0.26678937596998914,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "meta/muse-image-1.0-eval-20260824",
@@ -23170,7 +23170,7 @@
           "standard"
         ],
         "change": -0.2699608027860707,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fish-audio/s2.1-pro-free-20260729",
@@ -23188,7 +23188,7 @@
           "free"
         ],
         "change": -0.2710705785243182,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "rekaai/reka-flash-3",
@@ -23206,7 +23206,7 @@
           "standard"
         ],
         "change": -0.2770015549533427,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-122b-a10b-20260224",
@@ -23224,7 +23224,7 @@
           "standard"
         ],
         "change": -0.27796786451067124,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-embed-1b",
@@ -23242,7 +23242,7 @@
           "free"
         ],
         "change": -0.28018835129412506,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-30b-a3b-04-28",
@@ -23260,7 +23260,7 @@
           "standard"
         ],
         "change": -0.28619912041574863,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-2025-08-07",
@@ -23278,7 +23278,7 @@
           "standard"
         ],
         "change": -0.28968861356772224,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/rerank-3-20260930",
@@ -23296,7 +23296,7 @@
           "standard"
         ],
         "change": -0.30198136261538133,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-5.3-20260816",
@@ -23315,7 +23315,7 @@
           "standard"
         ],
         "change": -0.30458852687278243,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xiaomi/mimo-v2.6-pro-ultraspeed-20260921",
@@ -23333,7 +23333,7 @@
           "standard"
         ],
         "change": -0.3050921692275241,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.20-multi-agent-20260309",
@@ -23351,7 +23351,7 @@
           "standard"
         ],
         "change": -0.31439383797826953,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fish-audio/s2-pro-20260729",
@@ -23369,7 +23369,7 @@
           "standard"
         ],
         "change": -0.31502427797580623,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "respan/span-01-20260925",
@@ -23387,7 +23387,7 @@
           "standard"
         ],
         "change": -0.3186438321765988,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "deepseek/deepseek-v4-flash-vision-exp-20260821",
@@ -23405,7 +23405,7 @@
           "standard"
         ],
         "change": -0.321830330435789,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "thenlper/gte-base-20251117",
@@ -23423,7 +23423,7 @@
           "standard"
         ],
         "change": -0.32431138848342544,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sentence-transformers/paraphrase-minilm-l6-v2-20251117",
@@ -23441,7 +23441,7 @@
           "standard"
         ],
         "change": -0.3276657156357519,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-6-sol-pro-20260922",
@@ -23459,7 +23459,7 @@
           "standard"
         ],
         "change": -0.32819613005821713,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fireworks/ember-1-20260923",
@@ -23477,7 +23477,7 @@
           "standard"
         ],
         "change": -0.3305225222574819,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inception/mercury-3-20261019",
@@ -23495,7 +23495,7 @@
           "standard"
         ],
         "change": -0.3341502085943879,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.7-flash-20260119",
@@ -23513,7 +23513,7 @@
           "standard"
         ],
         "change": -0.33615550552088885,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "x-ai/grok-4.6-20260810",
@@ -23531,7 +23531,7 @@
           "standard"
         ],
         "change": -0.34204504579971445,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-27b-20260224",
@@ -23549,7 +23549,7 @@
           "standard"
         ],
         "change": -0.3617822315830754,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/gemini-3.1-pro-preview-customtools-20260219",
@@ -23567,7 +23567,7 @@
           "standard"
         ],
         "change": -0.3667143739973399,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inception/mercury-2.5-20260908",
@@ -23585,7 +23585,7 @@
           "standard"
         ],
         "change": -0.3667241348749132,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.3-codex-20260224",
@@ -23603,7 +23603,7 @@
           "standard"
         ],
         "change": -0.3681656027542498,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "fish-audio/s1-20260729",
@@ -23621,7 +23621,7 @@
           "standard"
         ],
         "change": -0.37030433774893473,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "voyageai/voyage-code-4-20260812",
@@ -23639,7 +23639,7 @@
           "standard"
         ],
         "change": -0.37038614895767724,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xiaomi/mimo-v2.6-flash-20260921",
@@ -23657,7 +23657,7 @@
           "standard"
         ],
         "change": -0.37388615136606657,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.7-opus-20260416",
@@ -23675,7 +23675,7 @@
           "standard"
         ],
         "change": -0.3788365529291607,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "perplexity/pplx-embed-v1-0.6B",
@@ -23693,7 +23693,7 @@
           "standard"
         ],
         "change": -0.3794300574309573,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-2024-05-13",
@@ -23711,7 +23711,7 @@
           "standard"
         ],
         "change": -0.38049530634432416,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-vl-8b-instruct",
@@ -23729,7 +23729,7 @@
           "standard"
         ],
         "change": -0.38816609383976614,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-styles-vector-20260826",
@@ -23747,7 +23747,7 @@
           "standard"
         ],
         "change": -0.3917123122290793,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mancer/weaver",
@@ -23765,7 +23765,7 @@
           "standard"
         ],
         "change": -0.39262217075416783,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "krea/krea-2-large-20260720",
@@ -23783,7 +23783,7 @@
           "standard"
         ],
         "change": -0.40166563835231156,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4o-mini-2024-07-18",
@@ -23801,7 +23801,7 @@
           "standard"
         ],
         "change": -0.40403204547083793,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "reflection/beam-1.0-501b-a23b-20261016",
@@ -23819,7 +23819,7 @@
           "standard"
         ],
         "change": -0.40798642635143295,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-opus-5-20260723",
@@ -23838,7 +23838,7 @@
           "standard"
         ],
         "change": -0.41089307499386035,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3.5-plus-20260420",
@@ -23856,7 +23856,7 @@
           "standard"
         ],
         "change": -0.4119750030750236,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen3-next-80b-a3b-instruct-2509",
@@ -23874,7 +23874,7 @@
           "standard"
         ],
         "change": -0.4140902640836244,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "z-ai/glm-4.5-air",
@@ -23892,7 +23892,7 @@
           "standard"
         ],
         "change": -0.4153483155700594,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-mini-tts-2603",
@@ -23910,7 +23910,7 @@
           "standard"
         ],
         "change": -0.4170420705101953,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.1-codex-20251113",
@@ -23928,7 +23928,7 @@
           "standard"
         ],
         "change": -0.42726974371997545,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4",
@@ -23946,7 +23946,7 @@
           "standard"
         ],
         "change": -0.4289702223958845,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sentence-transformers/multi-qa-mpnet-base-dot-v1-20251117",
@@ -23964,7 +23964,7 @@
           "standard"
         ],
         "change": -0.43137067142249397,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-4.1-nano-2025-04-14",
@@ -23982,7 +23982,7 @@
           "standard"
         ],
         "change": -0.4344370433602419,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-utility-pro-20260514",
@@ -24000,7 +24000,7 @@
           "standard"
         ],
         "change": -0.43875117719243173,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sakana/fugu-ultra-v2-20260911",
@@ -24018,7 +24018,7 @@
           "standard"
         ],
         "change": -0.43984060352133725,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cloudflare/clef",
@@ -24036,7 +24036,7 @@
           "standard"
         ],
         "change": -0.4408443588629676,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sourceful/riverflow-v2.5-fast-20260605",
@@ -24054,7 +24054,7 @@
           "standard"
         ],
         "change": -0.44286165912997216,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elorian/glimpse-20261016",
@@ -24072,7 +24072,7 @@
           "standard"
         ],
         "change": -0.45223117684978753,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-audio-3.0-tts-plus-20260723",
@@ -24090,7 +24090,7 @@
           "standard"
         ],
         "change": -0.45471029922858913,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baai/bge-base-en-v1.5-20251117",
@@ -24108,7 +24108,7 @@
           "standard"
         ],
         "change": -0.472980252256602,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.2-20251211",
@@ -24126,7 +24126,7 @@
           "standard"
         ],
         "change": -0.4802847936217128,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.6-terra-pro-20260709",
@@ -24144,7 +24144,7 @@
           "standard"
         ],
         "change": -0.4868309010640017,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sakana/namazu-20260811",
@@ -24162,7 +24162,7 @@
           "standard"
         ],
         "change": -0.4960373937678152,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "upstage/solar-decide-20260928",
@@ -24180,7 +24180,7 @@
           "standard"
         ],
         "change": -0.5044216072027107,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "relace/relace-apply-3",
@@ -24198,7 +24198,7 @@
           "standard"
         ],
         "change": -0.5098769644292861,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5-image",
@@ -24216,7 +24216,7 @@
           "standard"
         ],
         "change": -0.5112842257934425,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4-pro-20260413",
@@ -24234,7 +24234,7 @@
           "standard"
         ],
         "change": -0.5116813067825589,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/minimax-m3-20260531",
@@ -24252,7 +24252,7 @@
           "standard"
         ],
         "change": -0.5138523738440859,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cloudflare/clef-omni-20261009",
@@ -24270,7 +24270,7 @@
           "standard"
         ],
         "change": -0.5147506299642353,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "xiaomi/mimo-v2.5-pro-20260422",
@@ -24288,7 +24288,7 @@
           "standard"
         ],
         "change": -0.5465245400273948,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/mistral-medium-3.5-20260430",
@@ -24307,7 +24307,7 @@
           "standard"
         ],
         "change": -0.5621906335417373,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/ministral-8b-2512",
@@ -24325,7 +24325,7 @@
           "standard"
         ],
         "change": -0.5655273594829859,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-1.6-20250625",
@@ -24343,7 +24343,7 @@
           "standard"
         ],
         "change": -0.5660554757259195,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "inference-net/schematron-v2-turbo-20260902",
@@ -24361,7 +24361,7 @@
           "standard"
         ],
         "change": -0.5746893857691501,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "moonshotai/kimi-k2-thinking-20251106",
@@ -24379,7 +24379,7 @@
           "standard"
         ],
         "change": -0.5760620573443154,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "amazon/nova-pro-v1",
@@ -24397,7 +24397,7 @@
           "standard"
         ],
         "change": -0.5798487061232815,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "tencent/hy-mt2-1.8b-20260521",
@@ -24415,7 +24415,7 @@
           "standard"
         ],
         "change": -0.5949429994102842,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "intfloat/e5-large-v2-20251117",
@@ -24433,7 +24433,7 @@
           "standard"
         ],
         "change": -0.5980360785105662,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/speech-2.8-hd-20260716",
@@ -24451,7 +24451,7 @@
           "standard"
         ],
         "change": -0.6001026848176594,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "bytedance-seed/seed-2.0-code-20260730",
@@ -24469,7 +24469,7 @@
           "standard"
         ],
         "change": -0.6014061329667159,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-5.5-pro-20260423",
@@ -24487,7 +24487,7 @@
           "standard"
         ],
         "change": -0.610895181444887,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "prism-ml/ternary-bonsai-2-27b-20260918",
@@ -24505,7 +24505,7 @@
           "standard"
         ],
         "change": -0.6149750681667341,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recursive/flint-v1.0-20261021",
@@ -24524,7 +24524,7 @@
           "standard"
         ],
         "change": -0.6357626080849947,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "recraft/recraft-v4.1-flash-20260923",
@@ -24542,7 +24542,7 @@
           "standard"
         ],
         "change": -0.6384487441779252,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "scaledown/extract-20260928",
@@ -24560,7 +24560,7 @@
           "standard"
         ],
         "change": -0.6391318801900158,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3-embed-1b",
@@ -24578,7 +24578,7 @@
           "free"
         ],
         "change": -0.6511578500106224,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-embed-8b-20261021",
@@ -24596,7 +24596,7 @@
           "free"
         ],
         "change": -0.6771307421924916,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nex-agi/nex-n2.5-mini-20260908",
@@ -24614,7 +24614,7 @@
           "standard"
         ],
         "change": -0.6804215738830253,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "qwen/qwen-2.5-7b-instruct",
@@ -24632,7 +24632,7 @@
           "standard"
         ],
         "change": -0.7205539900360345,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "black-forest-labs/flux-3-image-20261001",
@@ -24650,7 +24650,7 @@
           "standard"
         ],
         "change": -0.7977271144953608,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "intfloat/multilingual-e5-large-20251117",
@@ -24668,7 +24668,7 @@
           "standard"
         ],
         "change": -0.821134614647525,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "intfloat/e5-base-v2-20251117",
@@ -24686,7 +24686,7 @@
           "standard"
         ],
         "change": -0.8439636347205726,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "text-embedding-3-small",
@@ -24704,7 +24704,7 @@
           "standard"
         ],
         "change": -0.9364390795926065,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "anthropic/claude-4.1-opus-20250805",
@@ -24722,7 +24722,7 @@
           "standard"
         ],
         "change": -0.9386234307022306,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "sentence-transformers/all-minilm-l12-v2-20251117",
@@ -24740,7 +24740,7 @@
           "standard"
         ],
         "change": -0.9531977805851437,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/gpt-image-1",
@@ -24758,7 +24758,7 @@
           "standard"
         ],
         "change": -0.9997101597724426,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "baai/bge-m3",
@@ -24776,25 +24776,7 @@
           "standard"
         ],
         "change": -0.9999838059117567,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "bytedance/seedance-2.0-fast-20260414",
-        "model_name": "seedance-2.0-fast",
-        "provider": "bytedance",
-        "provider_alias": "bytedance",
-        "count": 28912,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/scribe-v2-20260929",
@@ -24812,7 +24794,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "kwaivgi/kling-v3.0-std-20260429",
@@ -24830,151 +24812,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/wan-2.7-20260414",
-        "model_name": "wan-2.7",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 3533,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/wan-3.0-prime-20260827",
-        "model_name": "wan-3.0-prime",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 5862,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "cohere/rerank-4-fast",
-        "model_name": "rerank-4-fast",
-        "provider": "cohere",
-        "provider_alias": "cohere",
-        "count": 440793,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/wan-2.6-20260327",
-        "model_name": "wan-2.6",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 781,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "bytedance/seedance-1-5-pro-20260320",
-        "model_name": "seedance-1-5-pro",
-        "provider": "bytedance",
-        "provider_alias": "bytedance",
-        "count": 12325,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "x-ai/grok-imagine-video-20260512",
-        "model_name": "grok-imagine-video",
-        "provider": "x-ai",
-        "provider_alias": "xAI",
-        "count": 13197,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "qwen/qwen3-asr-1.7b-20260813",
-        "model_name": "qwen3-asr-1.7b",
-        "provider": "qwen",
-        "provider_alias": "Qwen",
-        "count": 606650,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "bytedance/seedance-2.0-mini-20260811",
-        "model_name": "seedance-2.0-mini",
-        "provider": "bytedance",
-        "provider_alias": "bytedance",
-        "count": 9354,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "cohere/rerank-v3.5",
@@ -24992,7 +24830,25 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "alibaba/wan-3.0-prime-20260827",
+        "model_name": "wan-3.0-prime",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 5862,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "minimax/hailuo-03-20260730",
@@ -25010,14 +24866,14 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
-        "model_permaslug": "bytedance/seedance-2.5-20260807",
-        "model_name": "seedance-2.5",
+        "model_permaslug": "bytedance/seedance-2.0-fast-20260414",
+        "model_name": "seedance-2.0-fast",
         "provider": "bytedance",
         "provider_alias": "bytedance",
-        "count": 32091,
+        "count": 28912,
         "prompt_tokens": 0,
         "completion_tokens": 0,
         "reasoning_tokens": 0,
@@ -25028,43 +24884,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "fish-audio/transcribe-1-20260729",
-        "model_name": "transcribe-1",
-        "provider": "fish-audio",
-        "provider_alias": "fish-audio",
-        "count": 35564,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/wan-3.0-20260824",
-        "model_name": "wan-3.0",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 30064,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "openai/whisper-large-v3",
@@ -25082,25 +24902,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/happyhorse-1.1-20260624",
-        "model_name": "happyhorse-1.1",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 2754,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "heygen/heygen-video-1-20260930",
@@ -25118,457 +24920,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "x-ai/grok-stt-20260723",
-        "model_name": "grok-stt",
-        "provider": "x-ai",
-        "provider_alias": "xAI",
-        "count": 725349,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "openai/whisper-large-v3-turbo",
-        "model_name": "whisper-large-v3-turbo",
-        "provider": "openai",
-        "provider_alias": "OpenAI",
-        "count": 15459105,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "x-ai/grok-imagine-video-1.5-20260719",
-        "model_name": "grok-imagine-video-1.5",
-        "provider": "x-ai",
-        "provider_alias": "xAI",
-        "count": 8189,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "minimax/hailuo-2.3-20260420",
-        "model_name": "hailuo-2.3",
-        "provider": "minimax",
-        "provider_alias": "MiniMax",
-        "count": 254,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "black-forest-labs/flux-3-video-20260804",
-        "model_name": "flux-3-video",
-        "provider": "black-forest-labs",
-        "provider_alias": "black-forest-labs",
-        "count": 1046,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "mistralai/voxtral-mini-3b-2507-20260813",
-        "model_name": "voxtral-mini-3b-2507",
-        "provider": "mistralai",
-        "provider_alias": "Mistral",
-        "count": 13334,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "bytedance/seedance-2.0-20260414",
-        "model_name": "seedance-2.0",
-        "provider": "bytedance",
-        "provider_alias": "bytedance",
-        "count": 20469,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "minimax/hailuo-3-max-20260901",
-        "model_name": "hailuo-3-max",
-        "provider": "minimax",
-        "provider_alias": "MiniMax",
-        "count": 9397,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "black-forest-labs/flux-video-upscale-20260819",
-        "model_name": "flux-video-upscale",
-        "provider": "black-forest-labs",
-        "provider_alias": "black-forest-labs",
-        "count": 1141,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "runway/aleph-2-20260729",
-        "model_name": "aleph-2",
-        "provider": "runway",
-        "provider_alias": "runway",
-        "count": 720,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "runway/gen-4.5-20260729",
-        "model_name": "gen-4.5",
-        "provider": "runway",
-        "provider_alias": "runway",
-        "count": 864,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "openai/whisper-1",
-        "model_name": "whisper-1",
-        "provider": "openai",
-        "provider_alias": "OpenAI",
-        "count": 591779,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "kwaivgi/kling-v3.0-pro-20260429",
-        "model_name": "kling-v3.0-pro",
-        "provider": "kwaivgi",
-        "provider_alias": "kwaivgi",
-        "count": 13876,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "deepgram/nova-3-20260714",
-        "model_name": "nova-3",
-        "provider": "deepgram",
-        "provider_alias": "deepgram",
-        "count": 460047,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "alibaba/happyhorse-1.0-20260624",
-        "model_name": "happyhorse-1.0",
-        "provider": "alibaba",
-        "provider_alias": "Alibaba",
-        "count": 165,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "google/veo-3.1-fast-20260320",
-        "model_name": "veo-3.1-fast",
-        "provider": "google",
-        "provider_alias": "Google",
-        "count": 27982,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "openai/gpt-transcribe-20260805",
-        "model_name": "gpt-transcribe",
-        "provider": "openai",
-        "provider_alias": "OpenAI",
-        "count": 718813,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "x-ai/grok-imagine-video-1.5-lite-20261001",
-        "model_name": "grok-imagine-video-1.5-lite",
-        "provider": "x-ai",
-        "provider_alias": "xAI",
-        "count": 26394,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "black-forest-labs/flux-video-edit-20260910",
-        "model_name": "flux-video-edit",
-        "provider": "black-forest-labs",
-        "provider_alias": "black-forest-labs",
-        "count": 1829,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "assemblyai/universal-3-6-pro-20261014",
-        "model_name": "universal-3-6-pro",
-        "provider": "assemblyai",
-        "provider_alias": "assemblyai",
-        "count": 139006,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "qwen/qwen3-asr-0.6b-20260813",
-        "model_name": "qwen3-asr-0.6b",
-        "provider": "qwen",
-        "provider_alias": "Qwen",
-        "count": 59003,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "meta/muse-voice-transcribe-1.0-20260903",
-        "model_name": "muse-voice-transcribe-1.0",
-        "provider": "meta",
-        "provider_alias": "meta",
-        "count": 34268,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "tbc/mischief-1-20261023",
-        "model_name": "mischief-1",
-        "provider": "tbc",
-        "provider_alias": "tbc",
-        "count": 14197,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "heygen/avatar-iv-20260625",
-        "model_name": "avatar-iv",
-        "provider": "heygen",
-        "provider_alias": "heygen",
-        "count": 13550,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "nvidia/nemotron-3.5-transcribe-20261028",
-        "model_name": "nemotron-3.5-transcribe",
-        "provider": "nvidia",
-        "provider_alias": "NVIDIA",
-        "count": 225985,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-transcribe-2-20260903",
@@ -25586,7 +24938,43 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "openai/whisper-large-v3-turbo",
+        "model_name": "whisper-large-v3-turbo",
+        "provider": "openai",
+        "provider_alias": "OpenAI",
+        "count": 15459105,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "black-forest-labs/flux-video-upscale-20260819",
+        "model_name": "flux-video-upscale",
+        "provider": "black-forest-labs",
+        "provider_alias": "black-forest-labs",
+        "count": 1141,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "kwaivgi/kling-video-o1-20260420",
@@ -25604,7 +24992,61 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "alibaba/wan-2.7-20260414",
+        "model_name": "wan-2.7",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 3533,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "openai/gpt-transcribe-20260805",
+        "model_name": "gpt-transcribe",
+        "provider": "openai",
+        "provider_alias": "OpenAI",
+        "count": 718813,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "bytedance/seedance-2.0-20260414",
+        "model_name": "seedance-2.0",
+        "provider": "bytedance",
+        "provider_alias": "bytedance",
+        "count": 20469,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "microsoft/mai-transcribe-1.5",
@@ -25622,14 +25064,14 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
-        "model_permaslug": "google/chirp-3",
-        "model_name": "chirp-3",
-        "provider": "google",
-        "provider_alias": "Google",
-        "count": 69215,
+        "model_permaslug": "alibaba/wan-3.0-20260824",
+        "model_name": "wan-3.0",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 30064,
         "prompt_tokens": 0,
         "completion_tokens": 0,
         "reasoning_tokens": 0,
@@ -25640,14 +25082,14 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
-        "model_permaslug": "fish-audio/transcribe-1-pro-20260924",
-        "model_name": "transcribe-1-pro",
-        "provider": "fish-audio",
-        "provider_alias": "fish-audio",
-        "count": 53970,
+        "model_permaslug": "alibaba/happyhorse-1.1-20260624",
+        "model_name": "happyhorse-1.1",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 2754,
         "prompt_tokens": 0,
         "completion_tokens": 0,
         "reasoning_tokens": 0,
@@ -25658,61 +25100,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "assemblyai/universal-3-5-pro-20260914",
-        "model_name": "universal-3-5-pro",
-        "provider": "assemblyai",
-        "provider_alias": "assemblyai",
-        "count": 96264,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "google/veo-3.1-20260320",
-        "model_name": "veo-3.1",
-        "provider": "google",
-        "provider_alias": "Google",
-        "count": 10968,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
-      },
-      {
-        "model_permaslug": "nvidia/parakeet-tdt-0.6b-v3",
-        "model_name": "parakeet-tdt-0.6b-v3",
-        "provider": "nvidia",
-        "provider_alias": "NVIDIA",
-        "count": 549564,
-        "prompt_tokens": 0,
-        "completion_tokens": 0,
-        "reasoning_tokens": 0,
-        "total_tokens": 0,
-        "native_tokens_cached": 0,
-        "tool_calls": 0,
-        "variants": [
-          "standard"
-        ],
-        "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "elevenlabs/scribe-v2-medical-20260929",
@@ -25730,7 +25118,241 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "fish-audio/transcribe-1-20260729",
+        "model_name": "transcribe-1",
+        "provider": "fish-audio",
+        "provider_alias": "fish-audio",
+        "count": 35564,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "cohere/rerank-4-fast",
+        "model_name": "rerank-4-fast",
+        "provider": "cohere",
+        "provider_alias": "cohere",
+        "count": 440793,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "alibaba/wan-2.6-20260327",
+        "model_name": "wan-2.6",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 781,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "x-ai/grok-imagine-video-1.5-lite-20261001",
+        "model_name": "grok-imagine-video-1.5-lite",
+        "provider": "x-ai",
+        "provider_alias": "xAI",
+        "count": 26394,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "black-forest-labs/flux-video-edit-20260910",
+        "model_name": "flux-video-edit",
+        "provider": "black-forest-labs",
+        "provider_alias": "black-forest-labs",
+        "count": 1829,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "mistralai/voxtral-mini-3b-2507-20260813",
+        "model_name": "voxtral-mini-3b-2507",
+        "provider": "mistralai",
+        "provider_alias": "Mistral",
+        "count": 13334,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "bytedance/seedance-2.5-20260807",
+        "model_name": "seedance-2.5",
+        "provider": "bytedance",
+        "provider_alias": "bytedance",
+        "count": 32091,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "black-forest-labs/flux-3-video-20260804",
+        "model_name": "flux-3-video",
+        "provider": "black-forest-labs",
+        "provider_alias": "black-forest-labs",
+        "count": 1046,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "google/chirp-3",
+        "model_name": "chirp-3",
+        "provider": "google",
+        "provider_alias": "Google",
+        "count": 69215,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "fish-audio/transcribe-1-pro-20260924",
+        "model_name": "transcribe-1-pro",
+        "provider": "fish-audio",
+        "provider_alias": "fish-audio",
+        "count": 53970,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "bytedance/seedance-1-5-pro-20260320",
+        "model_name": "seedance-1-5-pro",
+        "provider": "bytedance",
+        "provider_alias": "bytedance",
+        "count": 12325,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "runway/aleph-2-20260729",
+        "model_name": "aleph-2",
+        "provider": "runway",
+        "provider_alias": "runway",
+        "count": 720,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "kwaivgi/kling-v3.0-pro-20260429",
+        "model_name": "kling-v3.0-pro",
+        "provider": "kwaivgi",
+        "provider_alias": "kwaivgi",
+        "count": 13876,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "mistralai/voxtral-small-24b-2507-stt-20260813",
@@ -25748,7 +25370,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "google/veo-3.1-lite-20260331",
@@ -25766,14 +25388,14 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
-        "model_permaslug": "moondream/parakeet-ultra-20261102",
-        "model_name": "parakeet-ultra",
-        "provider": "moondream",
-        "provider_alias": "moondream",
-        "count": 3246,
+        "model_permaslug": "qwen/qwen3-asr-1.7b-20260813",
+        "model_name": "qwen3-asr-1.7b",
+        "provider": "qwen",
+        "provider_alias": "Qwen",
+        "count": 606650,
         "prompt_tokens": 0,
         "completion_tokens": 0,
         "reasoning_tokens": 0,
@@ -25784,14 +25406,14 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
-        "model_permaslug": "cohere/rerank-4-pro",
-        "model_name": "rerank-4-pro",
-        "provider": "cohere",
-        "provider_alias": "cohere",
-        "count": 566613,
+        "model_permaslug": "google/veo-3.1-fast-20260320",
+        "model_name": "veo-3.1-fast",
+        "provider": "google",
+        "provider_alias": "Google",
+        "count": 27982,
         "prompt_tokens": 0,
         "completion_tokens": 0,
         "reasoning_tokens": 0,
@@ -25802,7 +25424,7 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
       },
       {
         "model_permaslug": "nvidia/nemotron-3.5-asr-streaming-multilingual-0.6b-20260813",
@@ -25820,7 +25442,385 @@
           "standard"
         ],
         "change": null,
-        "scrape_time": "2026-11-05T07:34:16Z"
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "bytedance/seedance-2.0-mini-20260811",
+        "model_name": "seedance-2.0-mini",
+        "provider": "bytedance",
+        "provider_alias": "bytedance",
+        "count": 9354,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "google/veo-3.1-20260320",
+        "model_name": "veo-3.1",
+        "provider": "google",
+        "provider_alias": "Google",
+        "count": 10968,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "minimax/hailuo-2.3-20260420",
+        "model_name": "hailuo-2.3",
+        "provider": "minimax",
+        "provider_alias": "MiniMax",
+        "count": 254,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "assemblyai/universal-3-6-pro-20261014",
+        "model_name": "universal-3-6-pro",
+        "provider": "assemblyai",
+        "provider_alias": "assemblyai",
+        "count": 139006,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "qwen/qwen3-asr-0.6b-20260813",
+        "model_name": "qwen3-asr-0.6b",
+        "provider": "qwen",
+        "provider_alias": "Qwen",
+        "count": 59003,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "runway/gen-4.5-20260729",
+        "model_name": "gen-4.5",
+        "provider": "runway",
+        "provider_alias": "runway",
+        "count": 864,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "x-ai/grok-imagine-video-20260512",
+        "model_name": "grok-imagine-video",
+        "provider": "x-ai",
+        "provider_alias": "xAI",
+        "count": 13197,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "meta/muse-voice-transcribe-1.0-20260903",
+        "model_name": "muse-voice-transcribe-1.0",
+        "provider": "meta",
+        "provider_alias": "meta",
+        "count": 34268,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "deepgram/nova-3-20260714",
+        "model_name": "nova-3",
+        "provider": "deepgram",
+        "provider_alias": "deepgram",
+        "count": 460047,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "moondream/parakeet-ultra-20261102",
+        "model_name": "parakeet-ultra",
+        "provider": "moondream",
+        "provider_alias": "moondream",
+        "count": 3246,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "openai/whisper-1",
+        "model_name": "whisper-1",
+        "provider": "openai",
+        "provider_alias": "OpenAI",
+        "count": 591779,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "nvidia/nemotron-3.5-transcribe-20261028",
+        "model_name": "nemotron-3.5-transcribe",
+        "provider": "nvidia",
+        "provider_alias": "NVIDIA",
+        "count": 225985,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "minimax/hailuo-3-max-20260901",
+        "model_name": "hailuo-3-max",
+        "provider": "minimax",
+        "provider_alias": "MiniMax",
+        "count": 9397,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "assemblyai/universal-3-5-pro-20260914",
+        "model_name": "universal-3-5-pro",
+        "provider": "assemblyai",
+        "provider_alias": "assemblyai",
+        "count": 96264,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "alibaba/happyhorse-1.0-20260624",
+        "model_name": "happyhorse-1.0",
+        "provider": "alibaba",
+        "provider_alias": "Alibaba",
+        "count": 165,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "nvidia/parakeet-tdt-0.6b-v3",
+        "model_name": "parakeet-tdt-0.6b-v3",
+        "provider": "nvidia",
+        "provider_alias": "NVIDIA",
+        "count": 549564,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "x-ai/grok-imagine-video-1.5-20260719",
+        "model_name": "grok-imagine-video-1.5",
+        "provider": "x-ai",
+        "provider_alias": "xAI",
+        "count": 8189,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "tbc/mischief-1-20261023",
+        "model_name": "mischief-1",
+        "provider": "tbc",
+        "provider_alias": "tbc",
+        "count": 14197,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "heygen/avatar-iv-20260625",
+        "model_name": "avatar-iv",
+        "provider": "heygen",
+        "provider_alias": "heygen",
+        "count": 13550,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "x-ai/grok-stt-20260723",
+        "model_name": "grok-stt",
+        "provider": "x-ai",
+        "provider_alias": "xAI",
+        "count": 725349,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
+      },
+      {
+        "model_permaslug": "cohere/rerank-4-pro",
+        "model_name": "rerank-4-pro",
+        "provider": "cohere",
+        "provider_alias": "cohere",
+        "count": 566613,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "reasoning_tokens": 0,
+        "total_tokens": 0,
+        "native_tokens_cached": 0,
+        "tool_calls": 0,
+        "variants": [
+          "standard"
+        ],
+        "change": null,
+        "scrape_time": "2026-11-05T07:37:14Z"
       }
     ]
   }
